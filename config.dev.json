@@ -1,7 +1,7 @@
 {
 	"facebookAccount": {
-		"email": "",
-		"password": "",
+		"email": "chiccin2@gmail.com",
+		"password": "ROLEPLAYER",
 		"2FASecret": "",
 		"i_user": "",
 		"proxy": null,
@@ -19,7 +19,7 @@
 		"ignoreCommand": []
 	},
 	"adminBot": [
-	  "61555963733226"
+	  "100079267516878"
 	],
 	"whiteListMode": {
 		"enable": false,
